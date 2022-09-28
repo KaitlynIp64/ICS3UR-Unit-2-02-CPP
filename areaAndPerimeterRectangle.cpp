@@ -17,8 +17,8 @@ int main() {
 
     // input
     std::cout << "Enter length of a rectangle (mm): ";
-    std::cout << "Enter width of a rectangle (mm): ";
     std::cin >> lengthOfRectangle;
+    std::cout << "Enter width of a rectangle (mm): ";
     std::cin >> widthOfRectangle;
 
     // process
